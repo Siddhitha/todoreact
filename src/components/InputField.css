@@ -1,0 +1,30 @@
+.Input-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Input-wrapper input{
+    border-color: black;
+    border-style: solid;
+    width: 90%;
+    padding: 10px;
+    height: 15px
+
+}
+
+.Input-wrapper button{
+    border-color: black;
+    border-style: solid;
+    width: 45px;
+    height: 40px;
+    cursor: pointer;
+     
+}
+
+
+.Input-wrapper button:hover{
+    color: grey
+     
+}
